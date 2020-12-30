@@ -1,5 +1,5 @@
 """
-Unit tests for the calculator library
+Unit tests for the calculator library, NICE!
 """
 import calculator
 class TestCalculator:
